@@ -1,0 +1,15 @@
+# Font style metadata
+name = "vollkorn"
+
+# Optional Google font URL
+google_fonts = "family=Vollkorn"
+
+# Font families
+heading_font = "EB Garamond"
+body_font = "Cardo"
+nav_font = "Cinzel"
+mono_font = "Cinzel"
+
+# Font size
+font_size = "24"
+font_size_small = "20"
