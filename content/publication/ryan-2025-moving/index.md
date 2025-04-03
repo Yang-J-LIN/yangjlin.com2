@@ -1,20 +1,23 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Recurrent Neural Network-coupled SPAD TCSPC System for Real-time Fluorescence
-  Lifetime Imaging
+title: Moving quantum ghost imaging from demonstration to application
 subtitle: ''
 summary: ''
 authors:
-- Yang Lin
-- Paul Mos
-- Andrei Ardelean
-- Claudio Bruschini
+- Duncan P Ryan
+- James H Werner
+- Kati A Seitz
+- Dean P Morales
+- Rebecca Holmes
 - Edoardo Charbon
+- Claudio Bruschini
+- Paul Mos
+- Yang Lin
 tags: []
 categories: []
-date: '2023-01-01'
-lastmod: 2023-06-28T22:21:59+02:00
+date: '2025-01-01'
+lastmod: 2025-04-03T11:46:15+02:00
 featured: false
 draft: false
 
@@ -32,12 +35,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-06-28T20:21:46.147984Z'
+publishDate: '2025-04-03T09:46:15.106712Z'
 publication_types:
-- '0'
+- '1'
 abstract: ''
-publication: ''
-links:
-- name: arXiv
-  url: https://arxiv.org/abs/2306.15599
+publication: '*Photonic Instrumentation Engineering XII*'
 ---
